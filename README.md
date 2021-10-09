@@ -1,0 +1,2 @@
+# minigui
+Minimalistic GUI abstraction.
